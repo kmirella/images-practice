@@ -1,0 +1,22 @@
+{
+  "name": "images-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmirella/images-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmirella/images-practice/issues"
+  },
+  "homepage": "https://github.com/kmirella/images-practice#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
